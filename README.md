@@ -1,2 +1,2 @@
 # protopipe
-prototyping for protocols
+prototype protocols
